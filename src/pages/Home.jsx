@@ -158,43 +158,6 @@ export default function Home() {
           </div>
         </div>
       </section>
-
-    <section className="founder-section">
-  <div className="founder-container">
-
-    <div className="founder-content">
-      <p className="founder-label">THE FOUNDER</p>
-
-      <h2>
-        Building Teachlim
-        <br />
-        <span>with purpose.</span>
-      </h2>
-
-      <p className="founder-name">
-        Shaik Sameer Anwar
-      </p>
-
-      <p className="founder-description">
-        Founder of Teachlim, building a simpler way for
-        students, parents and tutors to connect locally.
-      </p>
-
-      <p className="founder-quote">
-        “The right tutor can make learning feel different.”
-      </p>
-    </div>
-
-    <div className="founder-image-container">
-      <img
-        src={founderImage}
-        alt="Shaik Sameer Anwar, Founder of Teachlim"
-        className="founder-image"
-      />
-    </div>
-
-  </div>
-</section>
     </>
   );
 }
